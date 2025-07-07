@@ -76,6 +76,13 @@ These strategies follow a **data-driven decision making approach**:
 - Insight generation and storytelling
 - Action-oriented analytics
 
+## AI-Enhanced Framework Documents
+
+This repository includes comprehensive AI-enhanced frameworks that provide strategic guidance for building intelligent marketing analytics systems:
+
+### **[Predictive Analytics Architecture](predictive-analytics-architecture.md)**
+Complete framework for building intelligence-driven marketing analytics systems that transform data into strategic insights, forecast future outcomes, and drive data-driven decision making through continuous learning and strategic AI integration.
+
 ## Contributing
 
 Found an issue or want to improve a strategy?
